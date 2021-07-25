@@ -1,0 +1,81 @@
+
+.half{
+    width: 38%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 4%;
+    background-color: whitesmoke;
+}
+.half img{
+    width: 100%
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(91, 91, 206), rgb(148, 186, 207));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.popup{
+    position:fixed;
+    right: 0;
+    width: 800px;
+    top:220px;
+}
+    
+.banner{
+    position:relative;
+    width: 100%;
+    height: 100%;
+}
+.welcome{
+    position:relative;
+    top:150px;
+}
+.bg{
+    background-color: whitesmoke;
+}
+section{
+    height: 600px;
+}
+.title{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-size: 40px;
+    color:black;
+}
+.p-list{
+    display: flex;
+}
+.sec{
+    border-radius: 7px;
+    background-color: white;
+    margin: 5%;
+}
+.fit{
+    margin-top: 5%;
+    margin-left: 8%;
+    height: 200px;
+    width: 300px;
+}
+.img-title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(5, 5, 65);
+    font-size: 30px;
+    padding-right:5px;
+    margin-left: 5%;
+}
+.box{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 7px;
+    background-color: white;
+    margin: 5%;
+}
+.project-list{
+    display: flex;
+    position: relative;
+    top: 30px;
+}
